@@ -1,0 +1,31 @@
+*{
+    background: #414141;
+    color: #fff;
+}
+body{
+    width: 800px;
+    height: 800px;
+    text-align: center;
+    margin-left: 230px;
+    background: #fff;
+}
+
+.main-heading {
+     background: #d01313;
+     width: 300px;
+     margin-left: 250px;
+     text-align: center;
+     border-radius: 40px;
+}
+
+button{
+    width: 50px;
+    background: red;
+}
+.Box{
+    background: #fff;
+    width: 250px;
+    margin-left: 280px;
+    border-radius: 35px;
+    justify-content: space-around;
+}
